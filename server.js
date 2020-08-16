@@ -13,6 +13,7 @@ app.use(cors());
 app.use(express.urlencoded({extended: true}));
 app.use(bodyParser.json());
 app.use(express.static('public'))
+api.route(app,fs);
 html(app);
 
 app.listen(PORT, () => console.log(`API is listening on port ${PORT}`));

@@ -1,6 +1,6 @@
 # Note Taker
 
-An application utilizing express that allows the user to create, store and delete notes over multiple browser sessions.
+An application utilizing express that allows the user to create, save and delete notes over multiple browser sessions.
 
 ## Installation
 

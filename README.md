@@ -24,5 +24,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-# Unit 11 Express Homework: Note Taker

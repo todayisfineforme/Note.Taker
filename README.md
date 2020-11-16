@@ -1,6 +1,6 @@
 # Note Taker
 
-Foobar is a Python library for dealing with word pluralization.
+front end application utilizing express to allow the user to create, store and delete notes over multiple browser sessions.
 
 ## Installation
 

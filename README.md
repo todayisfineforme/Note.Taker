@@ -4,21 +4,18 @@ An application utilizing express that allows the user to create, store and delet
 
 ## Installation
 
-Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
+Use the node package manager [npm](https://nodejs.org/en/) to install Note Taker.
 
 ```bash
-npm install foobar
+npm install
 ```
 
 ## Usage
 
 ```node.js
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+npm start
 ```
+then navigate to 'localhost:9000'
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
